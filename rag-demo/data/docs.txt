@@ -1,0 +1,7 @@
+CloudScale 是 Mini-Solution 的云基础设施服务，支持 AWS、Azure 和 Google Cloud。
+
+CloudScale 提供 Terraform 自动化构建、DevOps CI/CD、云成本优化和监控运维服务。
+
+RAG 是 Retrieval Augmented Generation 的缩写，意思是先检索资料，再让 AI 根据资料回答问题。
+
+Mini-Solution 正在推进生成式 AI、RAG、Dify、LangChain 和企业知识库相关业务。
